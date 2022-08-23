@@ -1,0 +1,2 @@
+body,html{margin:0;padding:0}.card-container{align-items:center;background-color:tomato;color:#fff;flex-wrap:wrap;height:100vh}.card-container,.userCard{display:flex;justify-content:space-around}.userCard{background-color:coral;border:3px solid #fff;border-radius:10px;flex-direction:column;font-family:sans-serif,monospace;height:200px;text-align:center;width:200px}
+/*# sourceMappingURL=main.e7fd7e2d.css.map*/
