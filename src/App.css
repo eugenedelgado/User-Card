@@ -1,0 +1,28 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.card-container {
+	background-color: tomato;
+	color: white;
+	height: 100vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.userCard {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-align: center;
+	border: 3px solid white;
+	border-radius: 10px;
+	background-color: coral;
+	font-family: sans-serif, monospace;
+	width: 200px;
+	height: 200px;
+}
